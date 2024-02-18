@@ -1,0 +1,17 @@
+.containerForm {
+    border: solid black 1px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+}
+
+.form {
+    margin: 5px;
+}
